@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "cs425",
+    "password": "cs425",
+    "database": "cs425db",
+    "host": "23.229.172.192",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "cs425",
+    "password": "cs425",
+    "database": "cs425db",
+    "host": "23.229.172.192",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "cs425",
+    "password": "cs425",
+    "database": "cs425db",
+    "host": "23.229.172.192",
+    "dialect": "mysql"
+  }
+}
